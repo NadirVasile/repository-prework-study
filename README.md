@@ -1,2 +1,2 @@
-# repository-prework-study
+# prework-study-guide
 study for prework only
