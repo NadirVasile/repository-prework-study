@@ -1,2 +1,2 @@
-# second-repository-prework-study
+# repository-prework-study
 study for prework only
